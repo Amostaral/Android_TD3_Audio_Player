@@ -1,0 +1,7 @@
+
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8×ÇßÅƒ.
+lsquid:UselessImportCheck"ARemove this unused import 'androidx.core.content.MimeTypeFilter'.(ñÇ€8ÃØÅƒ.
+lsquid:UselessImportCheck"ARemove this unused import 'android.media.MediaMetadataRetriever'.(ÃÇ«‚8úúŞÅƒ.
+bsquid:UselessImportCheck"7Remove this unused import 'android.webkit.MimeTypeMap'.(Ë¡ğØ8×ÇßÅƒ.
+csquid:UselessImportCheck"8Remove this unused import 'android.media.MediaMetadata'.(ë¥”‰8Õò±Åƒ.
+\squid:UselessImportCheck	",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8×ÇßÅƒ.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD3_TP3</string>
+    <string name="activity_name">Lecteur Audio</string>
+    <string name="quitter">quitter</string>
+</resources>
